@@ -1,0 +1,27 @@
+# Discord library (latest available for your container)
+discord.py
+
+# Voice & music support
+PyNaCl
+yt-dlp
+youtube_dl
+
+# HTTP requests
+aiohttp
+requests
+
+# Image manipulation
+Pillow
+
+# CAPTCHA / verification
+captcha
+
+# Database & storage
+tinydb
+python-dotenv
+
+# Utilities
+emoji
+python-dateutil
+matplotlib
+numpy

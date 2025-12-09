@@ -1,0 +1,26 @@
+project-folder/
+│
+├── main.py                   # main bot file
+│
+├── cogs/                     # folder for all your command files
+│   ├── general.py            # done
+│   ├── fun.py                # done
+│   ├── admin.py              # done
+│   ├── premium.py            # done
+│   ├── premiumcmds.py        # done 
+│   ├── economy.py            # done
+│   ├── music.py              # done 
+│   ├── utility.py            # done 
+│   ├── welcome.py            # done 
+│   ├── logs.py               # doone
+│   ├── tickets.py            # done 
+│   ├── reaction_roles.py     # done 
+│   ├── moderation.py         # done 
+│   ├── autoresponder.py      # done
+│   ├── verify.py             # done
+│   ├── leveling.py           # done 
+│   ├── serverinfo.py         # done 
+│   ├── events.py             # done 
+│   └── owner.py              # owner-only commands
+│
+└── requirements.txt          # python dependencies
