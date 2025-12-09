@@ -5,7 +5,7 @@ import discord
 from discord.ext import commands
 
 # ---- TOKEN ----
-TOKEN = os.environ.get("DISCORD_TOKEN") or "MTQ0NTk1MjYwNTU0ODMxNDY2NQ.GIznuk.yJCybGAd4m65KkDO7PB_Tl91fSxW50CVZpgreA"
+TOKEN = os.environ.get("DISCORD_TOKEN") or "Really man im not dumb"
 
 # ---- logging ----
 logging.basicConfig(level=logging.INFO)
